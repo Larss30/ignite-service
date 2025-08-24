@@ -131,3 +131,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+.light-accent {
+  color: hsl(0, 75%, 60%) 100%;
+}
