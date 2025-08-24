@@ -7,7 +7,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import ContactDialog from "./ContactDialog";
-import igniteLogo from "@/assets/ignite-logo.png";
+import darkIgniteLogo from "@/assets/dark-ignite-logo.png";
 
 export default function Header() {
   return (
@@ -15,7 +15,7 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center">
           <div className="text-2xl font-bold text-primary">
-            <img src={igniteLogo} alt="Ignite Service Logo" className="h-10 w-auto" />
+            <img src={darkIgniteLogo} alt="Ignite Service Logo" className="h-10 w-auto" />
           </div>
         </div>
 
