@@ -28,7 +28,7 @@ export default function HeroSection() {
                 Services You Can Rely On
               </h1>
               
-              <div className="w-24 h-1 bg-accent mb-8"></div>
+              <div className="w-24 h-1 bg-light-accent mb-8"></div>
               
               <p className="text-xl md:text-2xl mb-8 leading-relaxed max-w-2xl opacity-90 font-medium">
                 Specialists in mechanical services for contractors, building owners, and facilities managers across the UK.
@@ -76,15 +76,15 @@ export default function HeroSection() {
               <div className="bg-white/8 backdrop-blur-md rounded-3xl p-10 border border-white/20 shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <div className="text-center text-white space-y-8">
                   <div className="border-b border-white/20 pb-6">
-                    <div className="text-5xl font-bold text-accent mb-3 font-heading">12+</div>
+                    <div className="text-5xl font-bold light-accent mb-3 font-heading">12+</div>
                     <div className="text-lg opacity-90 font-medium">Years Experience</div>
                   </div>
                   <div className="border-b border-white/20 pb-6">
-                    <div className="text-5xl font-bold text-accent mb-3 font-heading">1000+</div>
+                    <div className="text-5xl font-bold light-accent mb-3 font-heading">1000+</div>
                     <div className="text-lg opacity-90 font-medium">Projects Completed</div>
                   </div>
                   <div>
-                    <div className="text-3xl font-bold text-white mb-3 font-heading">UK-Wide</div>
+                    <div className="text-3xl font-bold light-white mb-3 font-heading">UK-Wide</div>
                     <div className="text-lg opacity-90 font-medium">Coverage</div>
                   </div>
                 </div>

@@ -134,5 +134,8 @@
 
 
 .light-accent {
-  color: hsl(0, 75%, 60%) 100%;
+  color: #ED4350
+}
+.bg-light-accent {
+  background-color: #ED4350
 }
