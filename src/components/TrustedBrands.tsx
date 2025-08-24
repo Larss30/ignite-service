@@ -36,7 +36,7 @@ export default function LogosSection() {
               <img
                 src={logo.src}
                 alt={logo.name}
-                className="max-w-full h-12 object-contain filter hover:grayscale-0 transition-all duration-300 opacity-70 hover:opacity-100"
+                className="max-w-full h-20 object-contain filter hover:grayscale-0 transition-all duration-300 opacity-70 hover:opacity-100"
               />
             </div>
           ))}
