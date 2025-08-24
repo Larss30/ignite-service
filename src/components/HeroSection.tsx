@@ -24,7 +24,7 @@ export default function HeroSection() {
             <div className="animate-fade-up">
               <h1 className="font-heading text-4xl md:text-7xl lg:text-5xl font-bold mb-6 leading-[0.9]">
                 Commercial Heating,<br />
-                <span className="text-accent font-heading">Plumbing & Gas</span><br />
+                <span className="light-accent font-heading">Plumbing & Gas</span><br />
                 Services You Can Rely On
               </h1>
               

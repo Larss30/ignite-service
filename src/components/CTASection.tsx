@@ -53,7 +53,7 @@ export default function CTASection() {
               Have a job in mind? Send us your project details for a fast,
               honest quote.
             </p>
-            <div className="flex flex-col sm:flex-row gap-2 justify-center items-center text-accent font-semibold">
+            <div className="flex flex-col sm:flex-row gap-2 justify-center items-center light-accent font-semibold">
               <span className="flex items-center">
                 <Phone className="mr-2 h-4 w-4" />
                 023 9200 9890
