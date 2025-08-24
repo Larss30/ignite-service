@@ -72,7 +72,7 @@ export default function AboutSection() {
           </div>
 
           {/* Features Grid */}
-          <div className="grid grid-cols-2 gap-6 sm:grid-cols-12">
+          <div className="grid grid-cols-1 gap-6">
             {features.map((feature, index) => (
               <div 
                 key={index}
