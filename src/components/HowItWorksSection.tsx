@@ -1,5 +1,6 @@
 import { FileText, Calculator, Calendar, CheckCircle, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import ContactDialog from "./ContactDialog";
 
 const steps = [
   {
