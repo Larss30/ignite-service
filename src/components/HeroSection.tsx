@@ -22,7 +22,7 @@ export default function HeroSection() {
         <div className="grid lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-8 text-white">
             <div className="animate-fade-up">
-              <h1 className="font-heading text-4xl md:text-7xl lg:text-5xl font-bold mb-6 leading-[0.9]">
+              <h1 className="font-heading text-4xl md:text-7xl lg:text-5xl font-bold mb-6">
                 Commercial Heating,<br />
                 <span className="light-accent font-heading">Plumbing & Gas</span><br />
                 Services You Can Rely On
