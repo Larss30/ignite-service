@@ -1,4 +1,5 @@
 import { Phone, Mail, MapPin } from "lucide-react";
+import igniteLogo from "@/assets/ignite-logo.png";
 
 export default function Footer() {
   return (
@@ -8,7 +9,7 @@ export default function Footer() {
           {/* Company Info */}
           <div>
             <div className="text-2xl font-bold mb-4">
-              Ignite<span className="text-accent">Service</span>
+              <img src={igniteLogo} alt="Ignite Service Logo" className="h-10 w-auto" />
             </div>
             <p className="text-primary-foreground/80 leading-relaxed mb-4">
               Commercial mechanical services you can rely on. Since 2012, we've been helping contractors and building owners keep projects on schedule.
