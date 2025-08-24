@@ -1,9 +1,9 @@
-import pasma from "@/assets/logos/pasma.png";
-import gassafe from "@/assets/logos/gas-safe.png";
-import chas from "@/assets/logos/chas.png";
-import ipaf from "@/assets/logos/ipaf.png";
-import wras from "@/assets/logos/wras.png";
-import cscs from "@/assets/logos/cscs.png";
+import pasma from "@/assets/pasma.png";
+import gassafe from "@/assets/gas-safe.png";
+import chas from "@/assets/chas.png";
+import ipaf from "@/assets/ipaf.png";
+import wras from "@/assets/wras.png";
+import cscs from "@/assets/cscs.png";
 
 export default function LogosSection() {
   const logos = [
