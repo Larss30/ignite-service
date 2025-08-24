@@ -18,7 +18,7 @@ export default function HeroSection() {
       <div className="absolute top-0 right-0 w-1/3 h-full bg-accent/10 transform skew-x-12 origin-top-right"></div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-6 lg:px-8 py-20">
+      <div className="relative z-10 container mx-auto px-6 lg:px-8 py-30">
         <div className="grid lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-8 text-white">
             <div className="animate-fade-up">
