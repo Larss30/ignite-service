@@ -54,7 +54,7 @@ export default function ServicesSection() {
               <Wrench className="h-5 w-5 text-accent mr-2" />
               <span className="text-accent font-semibold">Our Services</span>
             </div>
-            <h2 className="font-heading text-5xl md:text-4xl font-bold text-primary mb-6">
+            <h2 className="font-heading text-4xl md:text-6xl font-bold text-primary mb-6">
               Comprehensive <span className="text-accent">Mechanical Services</span>
             </h2>
             <p className="text-xl text-muted-foreground leading-relaxed mb-8">
