@@ -86,10 +86,12 @@ export default function HowItWorksSection() {
         </div>
 
         <div className="text-center">
-          <Button variant="accent" size="lg" className="text-lg px-10 py-6 h-auto font-semibold shadow-glow">
-            Request a Quote Today
-            <ArrowRight className="ml-3 h-6 w-6" />
-          </Button>
+          <ContactDialog triggerType="quote">
+            <Button variant="accent" size="lg" className="text-lg px-10 py-6 h-auto font-semibold shadow-glow">
+              Request a Quote Today
+              <ArrowRight className="ml-3 h-6 w-6" />
+            </Button>
+          </ContactDialog>
         </div>
       </div>
     </section>
